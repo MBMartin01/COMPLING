@@ -1,0 +1,12 @@
+the
+a
+cat
+loves
+eats
+food
+.
+!
+<unk>
+<eos>
+<pad>
+<mask>

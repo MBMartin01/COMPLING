@@ -1,0 +1,28 @@
+# sent_id = n01002042
+# text_en = The new spending is fueled by Clinton’s large bank account.
+1	Les	le	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	wordform=les
+2	nouvelles	nouveau	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
+3	dépenses	dépense	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj:pass	_	_
+4	sont	être	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+5	alimentées	alimenter	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	par	par	ADP	IN	_	8	case	_	_
+7	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	compte	compte	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
+9	en	en	ADP	IN	_	10	case	_	_
+10	banque	banque	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
+11	imposant	imposant	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
+12	de	de	ADP	IN	_	13	case	_	_
+13	Clinton	Clinton	PROPN	NNP	Gender=Masc|Number=Sing	8	nmod	_	_
+
+# sent_id = n01149010
+# text_en = She spoke to CNN Style about the experience.
+1	Elle	il	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	wordform=elle
+2	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	parlé	parler	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	de	de	ADP	IN	_	6	case	_	_
+5	son	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	expérience	expérience	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
+7	à	à	ADP	IN	_	8	case	_	_
+8	CCN	CCN	PROPN	NNP	_	6	nmod	_	_
+9	Style	style	PROPN	NNP	_	8	flat:name	_	_
+

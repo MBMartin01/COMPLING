@@ -1,0 +1,11 @@
+is
+the
+man
+who
+tall
+happy
+?
+<eos>
+<unk>
+<mask>
+<pad>
